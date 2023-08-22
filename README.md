@@ -11,4 +11,4 @@ Kelas  : PGWEB - A
 
 Avatar :
 
-<img src="image/Farah.jpg" width="100">
+<img src="image/Farah.jpg" width="160">
