@@ -1,4 +1,4 @@
-# Biodata
+# Biodata Saya
 Perencanaan produk web GIS dan Git
 ___
 
@@ -11,4 +11,4 @@ Kelas  : PGWEB - A
 
 Avatar :
 
-<img src="image/Farah.jpg" width="160">
+<img src="Image/Farah.jpg" width="160">
